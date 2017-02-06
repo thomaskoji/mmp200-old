@@ -1,0 +1,27 @@
+*{    
+    margin: 0;
+    padding: 0;
+}
+
+#wrapper{
+    padding: 1em;
+}
+
+header {
+    text-align: center;   
+}
+
+nav li{
+    margin-bottom: 10px;
+    text-align: center;
+    list-style-type: none;
+}
+
+p, h2, h3{
+    margin-bottom: 1em; /* 1em = to the font size of the element */
+}
+
+ul {
+    padding: 3em;
+}
+
